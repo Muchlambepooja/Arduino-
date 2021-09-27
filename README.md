@@ -113,5 +113,9 @@ The fast PWM mode that provides a high-frequency PWM waveform generation allows 
 
 We have also used Header Pins as shown below
 
+![abcd](https://user-images.githubusercontent.com/91477166/134953086-77eabae7-3045-4bdb-ab8c-5c033848843d.png)
+
+
+
 
 
