@@ -25,4 +25,54 @@ MICROCONTROLLER:
 
 ![Untitled MICRO](https://user-images.githubusercontent.com/91477166/134943802-9d5f9fb5-34e9-4055-a048-e4feaa09a2d5.PNG)
 
+ATmega328P is a high performance yet low power consumption 8-bit AVR microcontroller that’s able to achieve the most single clock cycle execution of 131 powerful instructions thanks to its advanced RISC architecture. It can commonly be found as a processor in Arduino boards such as Arduino Fio and Arduino Uno.
+
+Features and Parametrics
+Features:
+High endurance non-volatile memory segments
+In system self-programmable flash program memory
+Programming Lock for software security
+Peripheral features
+Two 8-bit Timer/Counter with separate prescaler, compare mode.
+One 16-bit Timer/Counter with separate prescaler, compare mode, and capture mode
+Temperature measurement
+Programmable serial USART and watchdog timer with separate on-chip oscillator
+Unique features compared to other microcontrollers (ARM, 8051, PIC):
+Power-on reset and programmable brown-out detection
+Internal calibrated oscillator
+External and Internal interrupt sources
+Six sleep modes: Idle, ADC noise reduction, power-save, power-down, standby, and extended standby
+Parametrics
+Program Memory Type	Flash
+Program Memory Size	32
+CPU Speed (MIPS/DMIPS)	20
+SRAM (KB)	2,048
+Data EEPROM/HEF (bytes)	1,024
+Digital Communication Peripheral	1-UART, 2-SPI, 1-I2C
+Capture/Compare/PWM Peripheral	1 Input Capture, 1 CCP, 6PWM
+Timers/Counters	2 x 8-bit, 1x 16 bit
+Number of Comparators	1
+Temperature Range	-40 to 85deg
+Operating Voltage Range (V)	1.8 to 5.5V
+Pin Count	32
+Low Power	Yes
+
+
+Advantages and Disadvantages:
+
+
+Advantages:
+Processors are simpler to use, with the usage of 8bit and 16bit instead of 32/64bit which are more complex
+Readily usable without additional computing components with 32k bytes of onboard self-programmable flash program memory as well as 23 programmable I/O lines
+Code Efficient, all 31 registers are directly connected to the arithmetic logic unit (ALU), making it 10 times faster than conventional CISC microcontrollers
+Optimized for AVR enhanced RISC instruction set.
+
+
+Disadvantages:
+Lacks performance compared to higher bit microcontrollers
+Product Applications
+The ATmega328P is supported with a full suite of program and system development tools which includes: C compilers, macro assemblers, program debugger/simulators, in-circuit emulators, and evaluation kits.
+
+The fast PWM mode that provides a high-frequency PWM waveform generation allows for it to be suited for power regulation, rectification, and DAC applications.
+
 
