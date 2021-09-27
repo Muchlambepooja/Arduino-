@@ -129,6 +129,8 @@ TOP LAYER:
 
 BOTTOM LAYER:
 
+![Bottom layer](https://user-images.githubusercontent.com/91477166/134955356-d5f6bea5-aa2f-4f7f-b24b-226915f9a1c8.png)
+
 
 
 
