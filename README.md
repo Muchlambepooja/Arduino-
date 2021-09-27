@@ -115,6 +115,13 @@ We have also used Header Pins as shown below
 
 ![abcd](https://user-images.githubusercontent.com/91477166/134953086-77eabae7-3045-4bdb-ab8c-5c033848843d.png)
 
+The Arduino project began in 2005 as a tool for students at the Interaction Design Institute Ivrea, Italy, aiming to provide a low-cost and easy way for novices and professionals to create devices that interact with their environment using sensors and actuators. Common examples of such devices intended for beginner hobbyists include simple robots, thermostats and motion detectors.
+
+Schematic To Board:
+
+
+
+
 
 
 
