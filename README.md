@@ -69,25 +69,23 @@ Program Memory Type:	Flash
 
 Program Memory Size:	32
 
-CPU Speed (MIPS/DMIPS)	20
+CPU Speed (MIPS/DMIPS) :	20
 
-SRAM (KB)	2,048
+SRAM (KB)	:2,048
 
 Data EEPROM/HEF (bytes)	1,024
 
-Digital Communication Peripheral	1-UART, 2-SPI, 1-I2C
+Digital Communication Peripheral :	1-UART, 2-SPI, 1-I2C
 
-Capture/Compare/PWM Peripheral	1 Input Capture, 1 CCP, 6PWM
+Capture/Compare/PWM Peripheral :	1 Input Capture, 1 CCP, 6PWM
 
-Timers/Counters	2 x 8-bit, 1x 16 bit
-
-Number of Comparators	1
+Number of Comparators :	1
 
 Temperature Range	: -40 to 85deg
 
-Operating Voltage Range (V)	1.8 to 5.5V
+Operating Voltage Range (V) :	1.8 to 5.5V
 
-Pin Count	: 32
+Pin Count	: 28
 
 Low Power:	Yes
 
@@ -130,6 +128,14 @@ TOP LAYER:
 BOTTOM LAYER:
 
 ![Bottom layer](https://user-images.githubusercontent.com/91477166/134955356-d5f6bea5-aa2f-4f7f-b24b-226915f9a1c8.png)
+
+
+FUTURE SCOPE:
+
+the Arduino platform has done is to take what was once a fragmented and expensive market for robotics and microprocessors and become the major platform, largely by virtue of much lower cost and ease of use, leading to higher volume and popularity, and community support behind it. Arduino has made it simple to program their boards with any computer via USB and simple to integrate with a wide array of sensors and devices.
+
+CONTRIBUTORS:
+-> Muchlambe Pooja ,B.Tech(Electronics and Communication Engineering), Jawaharlal Nehru Technological University, Hyderabad.
 
 
 
