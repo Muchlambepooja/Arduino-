@@ -135,7 +135,9 @@ FUTURE SCOPE:
 the Arduino platform has done is to take what was once a fragmented and expensive market for robotics and microprocessors and become the major platform, largely by virtue of much lower cost and ease of use, leading to higher volume and popularity, and community support behind it. Arduino has made it simple to program their boards with any computer via USB and simple to integrate with a wide array of sensors and devices.
 
 CONTRIBUTORS:
--> Muchlambe Pooja ,B.Tech(Electronics and Communication Engineering), Jawaharlal Nehru Technological University, Hyderabad.
+
+
+ Muchlambe Pooja ,B.Tech(Electronics and Communication Engineering), Jawaharlal Nehru Technological University, Hyderabad.
 
 
 
