@@ -111,4 +111,7 @@ The ATmega328P is supported with a full suite of program and system development 
 
 The fast PWM mode that provides a high-frequency PWM waveform generation allows for it to be suited for power regulation, rectification, and DAC applications.
 
+We have also used Header Pins as shown below
+
+
 
