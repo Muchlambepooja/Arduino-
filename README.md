@@ -21,5 +21,8 @@ A capacitor is a device that stores electrical energy in an electric field. It i
 The effect of a capacitor is known as capacitance. While some capacitance exists between any two electrical conductors in proximity in a circuit, a capacitor is a component designed to add capacitance to a circuit. The capacitor was originally known as a condenser or condensator.This name and its cognates are still widely used in many languages, but rarely in English, one notable exception being condenser microphones, also called capacitor microphones.
 
 
-MICROCONTROLLER
+MICROCONTROLLER:
+
+![Untitled MICRO](https://user-images.githubusercontent.com/91477166/134943802-9d5f9fb5-34e9-4055-a048-e4feaa09a2d5.PNG)
+
 
