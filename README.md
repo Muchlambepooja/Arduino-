@@ -101,7 +101,7 @@ Code Efficient, all 31 registers are directly connected to the arithmetic logic 
 Optimized for AVR enhanced RISC instruction set.
 
 
-Disadvantages:
+##  Disadvantages:
 
 Lacks performance compared to higher bit microcontrollers
 Product Applications
@@ -114,27 +114,26 @@ We have also used Header Pins as shown below
 ![abcd](https://user-images.githubusercontent.com/91477166/134953086-77eabae7-3045-4bdb-ab8c-5c033848843d.png)
 
 The Arduino project began in 2005 as a tool for students at the Interaction Design Institute Ivrea, Italy, aiming to provide a low-cost and easy way for novices and professionals to create devices that interact with their environment using sensors and actuators. Common examples of such devices intended for beginner hobbyists include simple robots, thermostats and motion detectors.
-
-Schematic To Board:
+##  Schematic To Board:
 
 
 ![Board](https://user-images.githubusercontent.com/91477166/134954367-aeb1af29-25dc-444c-b872-aa8de7bfb5b1.png)
 
-TOP LAYER:
+##  TOP LAYER:
 
 ![Top layer](https://user-images.githubusercontent.com/91477166/134954817-afc4833a-c6b3-4553-b30f-944d2f450a21.png)
 
 
-BOTTOM LAYER:
+##  BOTTOM LAYER:
 
 ![Bottom layer](https://user-images.githubusercontent.com/91477166/134955356-d5f6bea5-aa2f-4f7f-b24b-226915f9a1c8.png)
 
 
-FUTURE SCOPE:
+##  FUTURE SCOPE:
 
 the Arduino platform has done is to take what was once a fragmented and expensive market for robotics and microprocessors and become the major platform, largely by virtue of much lower cost and ease of use, leading to higher volume and popularity, and community support behind it. Arduino has made it simple to program their boards with any computer via USB and simple to integrate with a wide array of sensors and devices.
 
-CONTRIBUTORS:
+##  CONTRIBUTORS:
 
 
  Muchlambe Pooja ,B.Tech(Electronics and Communication Engineering), Jawaharlal Nehru Technological University, Hyderabad.
