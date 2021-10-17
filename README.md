@@ -7,7 +7,12 @@
 3. Power_jackpth_lock
 4. Capacitors 
 5. Microcontroller
- a.
+6. Schematic to Board
+7. Top Layer
+8. Bottom Layer
+9. Future Scope
+10. Contributors
+ 
 
 
 ##  Introduction :
@@ -42,7 +47,7 @@ ATmega328P is a high performance yet low power consumption 8-bit AVR microcontro
 Features and Parametrics
 
 
-##  Features:
+### Features:
 High endurance non-volatile memory segments
 
 
@@ -50,14 +55,14 @@ In system self-programmable flash program memory
 Programming Lock for software security
 
 
-##  Peripheral feature:
+###  Peripheral feature:
 
 
 Two 8-bit Timer/Counter with separate prescaler, compare mode.
 One 16-bit Timer/Counter with separate prescaler, compare mode, and capture mode
 
 
-##  Temperature measurement:
+###   Temperature measurement:
 
 
 Programmable serial USART and watchdog timer with separate on-chip oscillator
@@ -74,7 +79,7 @@ External and Internal interrupt sources
 Six sleep modes: Idle, ADC noise reduction, power-save, power-down, standby, and extended standby
 
 
-##  Parametrics:
+###  Parametrics:
 
 
 Program Memory Type:	Flash
@@ -102,10 +107,10 @@ Pin Count	: 28
 Low Power:	Yes
 
 
-##  Advantages and Disadvantages:
+###  Advantages and Disadvantages:
 
 
-##  Advantages:
+####  Advantages:
 
 Processors are simpler to use, with the usage of 8bit and 16bit instead of 32/64bit which are more complex
 Readily usable without additional computing components with 32k bytes of onboard self-programmable flash program memory as well as 23 programmable I/O lines
@@ -113,7 +118,7 @@ Code Efficient, all 31 registers are directly connected to the arithmetic logic 
 Optimized for AVR enhanced RISC instruction set.
 
 
-##  Disadvantages:
+#### Disadvantages:
 
 Lacks performance compared to higher bit microcontrollers
 Product Applications
