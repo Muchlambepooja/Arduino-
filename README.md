@@ -16,7 +16,7 @@ Power circuit wired up
 Whenever a net splits in two directions a junction node is created. This signifies that all three intersecting nets are connected. If two nets cross, but there's not a junction, those nets are not connected.
 
 
-##  CAPACITORS;
+##  CAPACITORS:
 A capacitor is a device that stores electrical energy in an electric field. It is a passive electronic component with two terminals.
 The effect of a capacitor is known as capacitance. While some capacitance exists between any two electrical conductors in proximity in a circuit, a capacitor is a component designed to add capacitance to a circuit. The capacitor was originally known as a condenser or condensator.This name and its cognates are still widely used in many languages, but rarely in English, one notable exception being condenser microphones, also called capacitor microphones.
 
