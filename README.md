@@ -46,7 +46,7 @@ The effect of a capacitor is known as capacitance. While some capacitance exists
 
 ATmega328P is a high performance yet low power consumption 8-bit AVR microcontroller that’s able to achieve the most single clock cycle execution of 131 powerful instructions thanks to its advanced RISC architecture. It can commonly be found as a processor in Arduino boards such as Arduino Fio and Arduino Uno.
 
-Features and Parametrics
+##  Features and Parametrics
 
 
 ### Features:
