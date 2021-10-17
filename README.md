@@ -4,16 +4,25 @@
 
 
 ##  Table of Contents
-1. Introduction 
-2. Voltage Regulator
-3. Power_jackpth_lock
-4. Capacitors 
-5. Microcontroller
-6. Schematic to Board
-7. Top Layer
-8. Bottom Layer
-9. Future Scope
-10. Contributors
+* 1. Introduction 
+
+* 2. Voltage Regulator
+
+* 3. Power_jackpth_lock
+
+* 4. Capacitors
+
+* 5. Microcontroller
+
+* 6. Schematic to Board
+
+* 7. Top Layer
+
+* 8. Bottom Layer
+
+* 9. Future Scope
+
+* 10. Contributors
  
 
 
