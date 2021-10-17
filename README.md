@@ -6,22 +6,22 @@ This repository presents  the design of Arduino Board .The boards are equipped w
 This Power Module Consist of Voltage Regulator, Power_jackpth_lock, 2-Capacitors and vcc.with Input voltage 7V to 16V .
 
 
-VOLTAGE REGULATOR:
+##  VOLTAGE REGULATOR:
 A voltage regulator is a system designed to automatically maintain a constant voltage. A voltage regulator may use a simple feed-forward design or may include negative feedback. It may use an electromechanical mechanism, or electronic components. Depending on the design, it may be used to regulate one or more AC or DC voltages.
 Electronic voltage regulators are found in devices such as computer power supplies where they stabilize the DC voltages used by the processor and other elements. In automobile alternators and central power station generator plants, voltage regulators control the output of the plant. In an electric power distribution system, voltage regulators may be installed at a substation or along distribution lines so that all customers receive steady voltage independent of how much power is drawn from the line.
 
 
-POWER_JACKPTH_LOCK:
+##  POWER_JACKPTH_LOCK:
 Power circuit wired up
 Whenever a net splits in two directions a junction node is created. This signifies that all three intersecting nets are connected. If two nets cross, but there's not a junction, those nets are not connected.
 
 
-CAPACITORS;
+##  CAPACITORS;
 A capacitor is a device that stores electrical energy in an electric field. It is a passive electronic component with two terminals.
 The effect of a capacitor is known as capacitance. While some capacitance exists between any two electrical conductors in proximity in a circuit, a capacitor is a component designed to add capacitance to a circuit. The capacitor was originally known as a condenser or condensator.This name and its cognates are still widely used in many languages, but rarely in English, one notable exception being condenser microphones, also called capacitor microphones.
 
 
-MICROCONTROLLER:
+##  MICROCONTROLLER:
 
 ![Untitled MICRO](https://user-images.githubusercontent.com/91477166/134943802-9d5f9fb5-34e9-4055-a048-e4feaa09a2d5.PNG)
 
@@ -30,7 +30,7 @@ ATmega328P is a high performance yet low power consumption 8-bit AVR microcontro
 Features and Parametrics
 
 
-Features:
+##  Features:
 High endurance non-volatile memory segments
 
 
@@ -38,14 +38,14 @@ In system self-programmable flash program memory
 Programming Lock for software security
 
 
-Peripheral features
+##  Peripheral feature:
 
 
 Two 8-bit Timer/Counter with separate prescaler, compare mode.
 One 16-bit Timer/Counter with separate prescaler, compare mode, and capture mode
 
 
-Temperature measurement
+##  Temperature measurement:
 
 
 Programmable serial USART and watchdog timer with separate on-chip oscillator
@@ -62,7 +62,7 @@ External and Internal interrupt sources
 Six sleep modes: Idle, ADC noise reduction, power-save, power-down, standby, and extended standby
 
 
-Parametrics:
+##  Parametrics:
 
 
 Program Memory Type:	Flash
@@ -90,10 +90,10 @@ Pin Count	: 28
 Low Power:	Yes
 
 
-Advantages and Disadvantages:
+##  Advantages and Disadvantages:
 
 
-Advantages:
+##  Advantages:
 
 Processors are simpler to use, with the usage of 8bit and 16bit instead of 32/64bit which are more complex
 Readily usable without additional computing components with 32k bytes of onboard self-programmable flash program memory as well as 23 programmable I/O lines
