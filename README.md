@@ -5,35 +5,43 @@
 
 ##  Table of Contents
 
-* [1. Introduction ](https://user-images.githubusercontent.com/91477166/134933617-c281e0b7-52b0-430e-a4fc-98a04329524c.PNG)
+* [1. Introduction]()
 
-* [2. Voltage Regulator](https://user-images.githubusercontent.com/91477166/137732301-d14b79bf-847d-4a53-ac1d-5a26da9be1a0.jpg)
+* [2.Power Module](https://user-images.githubusercontent.com/91477166/134933617-c281e0b7-52b0-430e-a4fc-98a04329524c.PNG)
 
+* [3. Voltage Regulator](https://user-images.githubusercontent.com/91477166/137732301-d14b79bf-847d-4a53-ac1d-5a26da9be1a0.jpg)
 
-* [3. Power_jackpth_lock](https://user-images.githubusercontent.com/91477166/137733125-0d70d7f8-92f7-4a11-a70f-299146b748ae.png)
+* [4. Power_jackpth_lock](https://user-images.githubusercontent.com/91477166/137733125-0d70d7f8-92f7-4a11-a70f-299146b748ae.png)
 
-* [4. Capacitor](https://user-images.githubusercontent.com/91477166/137733573-614a9385-2981-4580-8750-bcf8b14b4d77.jpg)
+* [5. Capacitor](https://user-images.githubusercontent.com/91477166/137733573-614a9385-2981-4580-8750-bcf8b14b4d77.jpg)
 
-* [5. Microcontroller](https://user-images.githubusercontent.com/91477166/134943802-9d5f9fb5-34e9-4055-a048-e4feaa09a2d5.PNG)
+* [6. Microcontroller](https://user-images.githubusercontent.com/91477166/134943802-9d5f9fb5-34e9-4055-a048-e4feaa09a2d5.PNG)
 
-* [6. Schematic](https://user-images.githubusercontent.com/91477166/134953086-77eabae7-3045-4bdb-ab8c-5c033848843d.png)
+* [7. Schematic](https://user-images.githubusercontent.com/91477166/134953086-77eabae7-3045-4bdb-ab8c-5c033848843d.png)
 
-* [6. Board](https://user-images.githubusercontent.com/91477166/134954367-aeb1af29-25dc-444c-b872-aa8de7bfb5b1.png)
+* [8. Board](https://user-images.githubusercontent.com/91477166/134954367-aeb1af29-25dc-444c-b872-aa8de7bfb5b1.png)
 
-* [7. Top Layer](https://user-images.githubusercontent.com/91477166/134954817-afc4833a-c6b3-4553-b30f-944d2f450a21.png)
+* [9. Top Layer](https://user-images.githubusercontent.com/91477166/134954817-afc4833a-c6b3-4553-b30f-944d2f450a21.png)
 
-* [8. Bottom Layer](https://user-images.githubusercontent.com/91477166/134955356-d5f6bea5-aa2f-4f7f-b24b-226915f9a1c8.png)
+* [10. Bottom Layer](https://user-images.githubusercontent.com/91477166/134955356-d5f6bea5-aa2f-4f7f-b24b-226915f9a1c8.png)
 
-* [9. Future Scope]()
+* [11. Future Scope]()
 
-* [10. Contributors]()
+* [12. Contributors]()
  
 
 <!---links-->
 
 
 # Introduction :
-This repository presents  the design of Arduino Board .The boards are equipped with sets of digital and analog input/output (I/O) pins that may be interfaced to various expansion boards ('shields') or breadboards (for prototyping) and other circuits. The boards feature serial communications interfaces, we need to use external  Universal Serial Bus (USB) on some models, which are also used for loading programs . The below figure shows the power module of arduino board using eagle tool.
+This repository presents  the design of Arduino Board .The boards are equipped with sets of digital and analog input/output (I/O) pins that may be interfaced to various expansion boards ('shields') or breadboards (for prototyping) and other circuits. The boards feature serial communications interfaces, we need to use external  Universal Serial Bus (USB) on some models, which are also used for loading programs . 
+
+The below figure shows the power module of arduino board using eagle tool.
+
+
+# Power Module
+
+
 ![power module](https://user-images.githubusercontent.com/91477166/134933617-c281e0b7-52b0-430e-a4fc-98a04329524c.PNG)
 
 
