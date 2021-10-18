@@ -11,9 +11,9 @@
 
 * [3. Power_jackpth_lock](https://github.com/Muchlambepooja/Arduino-.git)
 
-* [4. Capacitors](https://github.com/Muchlambepooja/Arduino-.git)
+* [4. Capacitor](https://github.com/Muchlambepooja/Arduino-.git)
 
-* [5. Microcontroller](https://github.com/Muchlambepooja/Arduino-.git)
+* [5. Microcontroller_](https://github.com/Muchlambepooja/Arduino-.git)
 
 * [6. Schematic to Board](https://github.com/Muchlambepooja/Arduino-.git)
 
@@ -35,22 +35,22 @@ This repository presents  the design of Arduino Board .The boards are equipped w
 This Power Module Consist of Voltage Regulator, Power_jackpth_lock, 2-Capacitors and vcc.with Input voltage 7V to 16V .
 
 
-##  VOLTAGE REGULATOR:
+##  Voltage Regulator:
 A voltage regulator is a system designed to automatically maintain a constant voltage. A voltage regulator may use a simple feed-forward design or may include negative feedback. It may use an electromechanical mechanism, or electronic components. Depending on the design, it may be used to regulate one or more AC or DC voltages.
 Electronic voltage regulators are found in devices such as computer power supplies where they stabilize the DC voltages used by the processor and other elements. In automobile alternators and central power station generator plants, voltage regulators control the output of the plant. In an electric power distribution system, voltage regulators may be installed at a substation or along distribution lines so that all customers receive steady voltage independent of how much power is drawn from the line.
 
 
-##  POWER_JACKPTH_LOCK:
+##  Power_jackpth_lock:
 Power circuit wired up
 Whenever a net splits in two directions a junction node is created. This signifies that all three intersecting nets are connected. If two nets cross, but there's not a junction, those nets are not connected.
 
 
-##  CAPACITORS:
+##  Capacitor:
 A capacitor is a device that stores electrical energy in an electric field. It is a passive electronic component with two terminals.
 The effect of a capacitor is known as capacitance. While some capacitance exists between any two electrical conductors in proximity in a circuit, a capacitor is a component designed to add capacitance to a circuit. The capacitor was originally known as a condenser or condensator.This name and its cognates are still widely used in many languages, but rarely in English, one notable exception being condenser microphones, also called capacitor microphones.
 
 
-##  MICROCONTROLLER:
+##  Microcontroller:
 
 ![Untitled MICRO](https://user-images.githubusercontent.com/91477166/134943802-9d5f9fb5-34e9-4055-a048-e4feaa09a2d5.PNG)
 
@@ -148,21 +148,21 @@ The Arduino project began in 2005 as a tool for students at the Interaction Desi
 
 ![Board](https://user-images.githubusercontent.com/91477166/134954367-aeb1af29-25dc-444c-b872-aa8de7bfb5b1.png)
 
-##  TOP LAYER:
+##  Top layer:
 
 ![Top layer](https://user-images.githubusercontent.com/91477166/134954817-afc4833a-c6b3-4553-b30f-944d2f450a21.png)
 
 
-##  BOTTOM LAYER:
+##  Bottom Layer:
 
 ![Bottom layer](https://user-images.githubusercontent.com/91477166/134955356-d5f6bea5-aa2f-4f7f-b24b-226915f9a1c8.png)
 
 
-##  FUTURE SCOPE:
+##  Future Scope:
 
 the Arduino platform has done is to take what was once a fragmented and expensive market for robotics and microprocessors and become the major platform, largely by virtue of much lower cost and ease of use, leading to higher volume and popularity, and community support behind it. Arduino has made it simple to program their boards with any computer via USB and simple to integrate with a wide array of sensors and devices.
 
-##  CONTRIBUTORS:
+##  Contributors:
 
 
  Muchlambe Pooja ,B.Tech(Electronics and Communication Engineering), Jawaharlal Nehru Technological University, Hyderabad.
