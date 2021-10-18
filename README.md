@@ -4,25 +4,25 @@
 
 
 ##  Table of Contents
-* 1. Introduction 
+* [1. Introduction ](https://github.com/Muchlambepooja/Arduino-.git)
 
-* 2. Voltage Regulator
+* [2. Voltage Regulator](https://github.com/Muchlambepooja/Arduino-.git)
 
-* 3. Power_jackpth_lock
+* [3. Power_jackpth_lock](https://github.com/Muchlambepooja/Arduino-.git)
 
-* 4. Capacitors
+* [4. Capacitors](https://github.com/Muchlambepooja/Arduino-.git)
 
-* 5. Microcontroller
+* [5. Microcontroller](https://github.com/Muchlambepooja/Arduino-.git)
 
-* 6. Schematic to Board
+* [6. Schematic to Board](https://github.com/Muchlambepooja/Arduino-.git)
 
-* 7. Top Layer
+* [7. Top Layer](https://github.com/Muchlambepooja/Arduino-.git)
 
-* 8. Bottom Layer
+* [8. Bottom Layer](https://github.com/Muchlambepooja/Arduino-.git)
 
-* 9. Future Scope
+* [9. Future Scope](https://github.com/Muchlambepooja/Arduino-.git)
 
-* 10. Contributors
+* [10. Contributors](https://github.com/Muchlambepooja/Arduino-.git)
  
 
 
