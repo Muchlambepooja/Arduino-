@@ -7,23 +7,24 @@
 
 * [1. Introduction ](https://user-images.githubusercontent.com/91477166/134933617-c281e0b7-52b0-430e-a4fc-98a04329524c.PNG)
 
-* [2. Voltage Regulator](https://github.com/Muchlambepooja/Arduino-.git)
+* [2. Voltage Regulator](https://user-images.githubusercontent.com/91477166/137732301-d14b79bf-847d-4a53-ac1d-5a26da9be1a0.jpg)
 
-* [3. Power_jackpth_lock](https://github.com/Muchlambepooja/Arduino-.git)
 
-* [4. Capacitor](https://github.com/Muchlambepooja/Arduino-.git)
+* [3. Power_jackpth_lock](https://user-images.githubusercontent.com/91477166/137733125-0d70d7f8-92f7-4a11-a70f-299146b748ae.png)
 
-* [5. Microcontroller_](https://github.com/Muchlambepooja/Arduino-.git)
+* [4. Capacitor](https://user-images.githubusercontent.com/91477166/137733573-614a9385-2981-4580-8750-bcf8b14b4d77.jpg)
 
-* [6. Schematic to Board](https://github.com/Muchlambepooja/Arduino-.git)
+* [5. Microcontroller_](https://user-images.githubusercontent.com/91477166/134943802-9d5f9fb5-34e9-4055-a048-e4feaa09a2d5.PNG)
 
-* [7. Top Layer](https://github.com/Muchlambepooja/Arduino-.git)
+* [6. Schematic to Board](https://user-images.githubusercontent.com/91477166/134954367-aeb1af29-25dc-444c-b872-aa8de7bfb5b1.png)
 
-* [8. Bottom Layer](https://github.com/Muchlambepooja/Arduino-.git)
+* [7. Top Layer](https://user-images.githubusercontent.com/91477166/134954817-afc4833a-c6b3-4553-b30f-944d2f450a21.png)
 
-* [9. Future Scope](https://github.com/Muchlambepooja/Arduino-.git)
+* [8. Bottom Layer](https://user-images.githubusercontent.com/91477166/134955356-d5f6bea5-aa2f-4f7f-b24b-226915f9a1c8.png)
 
-* [10. Contributors](https://github.com/Muchlambepooja/Arduino-.git)
+* [9. Future Scope]()
+
+* [10. Contributors]()
  
 
 <!---links-->
@@ -41,15 +42,20 @@ This Power Module Consist of Voltage Regulator, Power_jackpth_lock, 2-Capacitors
 A voltage regulator is a system designed to automatically maintain a constant voltage. A voltage regulator may use a simple feed-forward design or may include negative feedback. It may use an electromechanical mechanism, or electronic components. Depending on the design, it may be used to regulate one or more AC or DC voltages.
 Electronic voltage regulators are found in devices such as computer power supplies where they stabilize the DC voltages used by the processor and other elements. In automobile alternators and central power station generator plants, voltage regulators control the output of the plant. In an electric power distribution system, voltage regulators may be installed at a substation or along distribution lines so that all customers receive steady voltage independent of how much power is drawn from the line.
 
+![7805-voltage-regulator](https://user-images.githubusercontent.com/91477166/137732301-d14b79bf-847d-4a53-ac1d-5a26da9be1a0.jpg)
 
 ##  Power_jackpth_lock:
 Power circuit wired up
 Whenever a net splits in two directions a junction node is created. This signifies that all three intersecting nets are connected. If two nets cross, but there's not a junction, those nets are not connected.
 
+![Powerjackpath](https://user-images.githubusercontent.com/91477166/137733336-5bc10ee8-a512-4700-b695-84a20960c53e.png)
+
+
 
 ##  Capacitor:
 A capacitor is a device that stores electrical energy in an electric field. It is a passive electronic component with two terminals.
 The effect of a capacitor is known as capacitance. While some capacitance exists between any two electrical conductors in proximity in a circuit, a capacitor is a component designed to add capacitance to a circuit. The capacitor was originally known as a condenser or condensator.This name and its cognates are still widely used in many languages, but rarely in English, one notable exception being condenser microphones, also called capacitor microphones.
+![download](https://user-images.githubusercontent.com/91477166/137733573-614a9385-2981-4580-8750-bcf8b14b4d77.jpg)
 
 
 ##  Microcontroller:
@@ -142,9 +148,13 @@ The fast PWM mode that provides a high-frequency PWM waveform generation allows 
 
 We have also used Header Pins as shown below
 
+# Schematic
+
 ![abcd](https://user-images.githubusercontent.com/91477166/134953086-77eabae7-3045-4bdb-ab8c-5c033848843d.png)
 
 The Arduino project began in 2005 as a tool for students at the Interaction Design Institute Ivrea, Italy, aiming to provide a low-cost and easy way for novices and professionals to create devices that interact with their environment using sensors and actuators. Common examples of such devices intended for beginner hobbyists include simple robots, thermostats and motion detectors.
+
+
 ##  Schematic To Board:
 
 
