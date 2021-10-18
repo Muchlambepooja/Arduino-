@@ -14,9 +14,11 @@
 
 * [4. Capacitor](https://user-images.githubusercontent.com/91477166/137733573-614a9385-2981-4580-8750-bcf8b14b4d77.jpg)
 
-* [5. Microcontroller_](https://user-images.githubusercontent.com/91477166/134943802-9d5f9fb5-34e9-4055-a048-e4feaa09a2d5.PNG)
+* [5. Microcontroller](https://user-images.githubusercontent.com/91477166/134943802-9d5f9fb5-34e9-4055-a048-e4feaa09a2d5.PNG)
 
-* [6. Schematic to Board](https://user-images.githubusercontent.com/91477166/134954367-aeb1af29-25dc-444c-b872-aa8de7bfb5b1.png)
+* [6. Schematic](https://user-images.githubusercontent.com/91477166/134953086-77eabae7-3045-4bdb-ab8c-5c033848843d.png)
+
+* [6. Board](https://user-images.githubusercontent.com/91477166/134954367-aeb1af29-25dc-444c-b872-aa8de7bfb5b1.png)
 
 * [7. Top Layer](https://user-images.githubusercontent.com/91477166/134954817-afc4833a-c6b3-4553-b30f-944d2f450a21.png)
 
@@ -155,7 +157,7 @@ We have also used Header Pins as shown below
 The Arduino project began in 2005 as a tool for students at the Interaction Design Institute Ivrea, Italy, aiming to provide a low-cost and easy way for novices and professionals to create devices that interact with their environment using sensors and actuators. Common examples of such devices intended for beginner hobbyists include simple robots, thermostats and motion detectors.
 
 
-##  Schematic To Board:
+##   Board:
 
 
 ![Board](https://user-images.githubusercontent.com/91477166/134954367-aeb1af29-25dc-444c-b872-aa8de7bfb5b1.png)
